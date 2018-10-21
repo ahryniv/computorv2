@@ -1,0 +1,2 @@
+class InputSyntaxException(Exception):
+    pass
